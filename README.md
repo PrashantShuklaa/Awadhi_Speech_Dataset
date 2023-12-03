@@ -26,7 +26,7 @@ git clone https://github.com/yourusername/awadhi-language-dataset.git
 ```
 
 ## Contribution
-Contributions to expand and enhance this dataset are welcome. Please refer to our [CONTRIBUTION.md](CONTRIBUTION.md) for guidelines.
+Contributions to expand and enhance this dataset are welcome. Please refer to our [Contribution.md](Contribution.md) for guidelines.
 
 ## Community and Support
 Join our community to discuss potential applications of this dataset and collaborate on Awadhi language projects. For support or inquiries, please open an issue in this repository.
