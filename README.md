@@ -5,6 +5,7 @@
 
 ## Introduction
 Welcome to the repository for the Awadhi_Speech_Dataset. Awadhi, a dialect of Hindi Language, is an Indo-Aryan language spoken primarily in the Awadh region of Uttar Pradesh, India, and in parts of Nepal. It has approximately 3.85 million speakers in India and 500,000 in Nepal (as of 2011). This dataset aims to facilitate linguistic research, natural language processing, and cultural preservation efforts related to the Awadhi language.
+![1_W_Hd0-pACIhygzVjPj737w](https://github.com/PrashantShuklaa/Awadhi_Speech_Dataset/assets/34169844/050b3eb8-94ad-40fe-b5d6-012fce27e909)
 
 ## Dataset Overview
 The dataset includes a variety of linguistic resources for Awadhi, such as:
